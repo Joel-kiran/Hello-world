@@ -1,4 +1,4 @@
-//////***q
+////
 #include<stdio.h>
 int main()
 {
